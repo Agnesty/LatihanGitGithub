@@ -8,4 +8,12 @@ Rencana Project App Education
   - Password
   - Username
 - Home screen
+  - List free course
+  - Promo card
+- List courses
+  - Math
+  - Bio
+  - Physical
+- Chat screen
+- Profile screen
 
