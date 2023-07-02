@@ -7,5 +7,12 @@ Rencana Project App Education
   - Email
   - Password
   - Username
-- Home screen
+- Bottom nav
+  - Home screen
+    - Promo card
+  - Chat screen
+  - Profile screen
+    - Nama
+    - Email
+
 
