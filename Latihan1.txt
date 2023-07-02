@@ -1,6 +1,6 @@
-Latihan1 
+Latihan Git & Github
 
 Ini adalah repository untuk mencoba latihan menggunakan git dan github
 - Create new file
 - Edit file 
-- History file
+- Liat commit/perubahan untuk history
