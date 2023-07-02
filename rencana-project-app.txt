@@ -1,0 +1,11 @@
+Rencana Project App Education
+
+- Login screen
+  - Email
+  - Password
+- Signup screen
+  - Email
+  - Password
+  - Username
+- Home screen
+
